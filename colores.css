@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(29, 231, 204);
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+#barra{
+    display: flex;
+}
+
+#logo{
+    width: 20px;
+    height: 20px;
+}
+
+.texto{
+
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.boton{
+    background-color: #2bdce973;
+    padding: 15px, 1px, 15px, 1px;
+    margin: 10px;
+    font-size: large;
+    border: 3px solid #1bcdda;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+
+  
